@@ -158,6 +158,7 @@ public class controls {
 			for (int j=0;j<gb.size();j++) {
 				System.out.print("|"+gb.getEntry(i,j));
 			}
+			
 			System.out.print("\n");
 		}
 	}
